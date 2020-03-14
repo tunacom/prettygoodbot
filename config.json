@@ -13,6 +13,18 @@
   },
   "default": [
     {
+      "name": "dark souls is a pretty good game",
+      "icon": "dark_souls.png"
+    },
+    {
+      "name": "diablo II is a pretty good game",
+      "icon": "diablo_2.png"
+    },
+    {
+      "name": "destiny 2 is a pretty good game",
+      "icon": "destiny_2.png"
+    },
+    {
       "name": "coup is a pretty good game",
       "icon": "coup.png"
     },
