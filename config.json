@@ -13,6 +13,14 @@
   },
   "default": [
     {
+      "name": "ffvii is a pretty good game",
+      "icon": "ffvii.png"
+    },
+    {
+      "name": "ffxiv is a pretty good game",
+      "icon": "ffxiv.png"
+    },
+    {
       "name": "magic is a pretty good game",
       "icon": "magic.png"
     },

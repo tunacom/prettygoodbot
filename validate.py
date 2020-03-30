@@ -9,6 +9,7 @@ def validate_entity(e):
   assert 'name' in e
   assert 'icon' in e
   assert os.path.exists(os.path.join(ICONS_DIR, e['icon']))
+  assert e['icon'].endswith('.png')
 
 
 def main():
