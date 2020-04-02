@@ -13,6 +13,10 @@
   },
   "default": [
     {
+      "name": "slay the spire is a pretty good game",
+      "icon": "spire.png"
+    },
+    {
       "name": "ffvii is a pretty good game",
       "icon": "ffvii.png"
     },
