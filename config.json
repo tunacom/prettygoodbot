@@ -13,6 +13,10 @@
   },
   "default": [
     {
+      "name": "impossible creatures is a pretty good game",
+      "icon": "impossible_creatures.png"
+    },
+    {
       "name": "slay the spire is a pretty good game",
       "icon": "spire.png"
     },
