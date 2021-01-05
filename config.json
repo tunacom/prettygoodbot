@@ -1,15 +1,7 @@
 {
-  "0": {
+  "7": {
     "name": "gw2 is a pretty... game",
     "icon": "gw2.png"
-  },
-  "2": {
-    "name": "spirit island is a pretty good game",
-    "icon": "spirit_island.png"
-  },
-  "3": {
-    "name": "gw1 is a pretty good game",
-    "icon": "gw1.png"
   },
   "default": [
     {
@@ -67,6 +59,14 @@
     {
       "name": "hades is a pretty good game",
       "icon": "hades.png"
+    },
+    {
+      "name": "gw1 is a pretty good game",
+      "icon": "gw1.png"
+    },
+    {
+      "name": "spirit island is a pretty good game",
+      "icon": "spirit_island.png"
     }
   ]
 }
