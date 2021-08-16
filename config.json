@@ -3,6 +3,10 @@
     "name": "ironsworn is a pretty good game",
     "icon": "ironsworn.png"
   },
+  "3": {
+    "name": "starforged is a pretty good game",
+    "icon": "starforged.png"
+  },
   "6": {
     "name": "gw2 is a pretty... game",
     "icon": "gw2.png"
@@ -23,6 +27,10 @@
     {
       "name": "ffvii is a pretty good game",
       "icon": "ffvii.png"
+    },
+    {
+      "name": "ffxi is a pretty good game",
+      "icon": "ffxi.png"
     },
     {
       "name": "ffxiv is a pretty good game",
