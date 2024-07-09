@@ -1,4 +1,12 @@
 {
+  "1": {
+    "name": "ironsworn is a pretty good game",
+    "icon": "ironsworn.png"
+  },
+  "2": {
+    "name": "bg3 is a pretty good game",
+    "icon": "bg3.png"
+  },
   "6": {
     "name": "gw2 is a pretty... game",
     "icon": "gw2.png"
@@ -73,10 +81,6 @@
       "icon": "spirit_island.png"
     },
     {
-      "name": "ironsworn is a pretty good game",
-      "icon": "ironsworn.png"
-    },
-    {
       "name": "D&D 5e is a pretty good game",
       "icon": "dnd.png"
     },
@@ -87,10 +91,6 @@
     {
       "name": "dark and darker is a pretty good game",
       "icon": "dad.png"
-    },
-    {
-      "name": "bg3 is a pretty good game",
-      "icon": "bg3.png"
     },
     {
       "name": "starfield is a pretty good game",
