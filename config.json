@@ -1,7 +1,7 @@
 {
   "6": {
-    "name": "gw2 is a pretty... game",
-    "icon": "gw2.png"
+    "name": "starforged is a pretty good game",
+    "icon": "starforged.png"
   },
   "default": [
     {
@@ -49,8 +49,8 @@
       "icon": "destiny_2.png"
     },
     {
-      "name": "starforged is a pretty good game",
-      "icon": "starforged.png"
+      "name": "gw2 is a pretty... game",
+      "icon": "gw2.png"
     },
     {
       "name": "dota is a pretty good game",
