@@ -1,8 +1,4 @@
 {
-  "6": {
-    "name": "starforged is a pretty good game",
-    "icon": "starforged.png"
-  },
   "default": [
     {
       "name": "impossible creatures is a pretty good game",
@@ -95,6 +91,10 @@
     {
       "name": "bg3 is a pretty good game",
       "icon": "bg3.png"
+    },
+    {
+      "name": "starforged is a pretty good game",
+      "icon": "starforged.png"
     }
   ]
 }
